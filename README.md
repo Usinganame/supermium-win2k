@@ -5,11 +5,9 @@
 **Latest progwrp.dll (version 1.1.0.5018)**
 This Supermium component sees enhancements and improvements from time to time, mostly for operating systems before Windows Vista.
 
-x86: [progwrp_32.zip](https://github.com/user-attachments/files/16188369/progwrp_32.zip)
 
-x64: [progwrp_64.zip](https://github.com/user-attachments/files/16188395/progwrp_64.zip)
 
-An up-to-date Chromium-based web browser compatible with Windows XP, 2003, Vista, 7 and 8.x.
+Supermium is an up-to-date Chromium-based web browser compatible with Windows 2000, Windows XP, 2003, Vista, 7 and 8.x.
 
 The Supermium web browser also provides the following features:
 
@@ -34,8 +32,6 @@ The Supermium web browser also provides the following features:
 -Support for SSE2-only processors in the 32 bit build
 
 **Future support for:**
-
--Windows 2000
 
 -Ungoogled Chromium features (in progress)
 
